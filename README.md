@@ -28,3 +28,11 @@ Tbh, I hate Ventura. I'll upgrade back to Sonoma because it performs better for 
 4. Audio: Conexant CX20632 Audio<br>
 5. Ethernet Card: Intel I219-LM Ethernet<br>
 6. Wireless LAN Card: Broadcom BCM943142Y
+
+
+---
+- <b>BIOS Settings</b> <br>
+Credits to Qiwu Huang (@ivan19871002)<br>
+https://github.com/ivan19871002/HP-ProDeks-680-G3-MT-Hackintosh/blob/main/HP%20EliteDesk%20800%20G4%20Mini%20BIOS%20Configuration.pdf
+
+
