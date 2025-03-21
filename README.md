@@ -16,8 +16,10 @@ Tbh, I hate Ventura. I'll upgrade back to Sonoma because it performs better for 
 ---
 - <b>Things You Need To Do:</b><br>
 1. <b>(Required)</b> Generate iMac18,1 SMBIOS with SMBIOSGen, and fill those values under [PlatformInfo > Generic].<br>Fill the ROM value with your Ethernet MAC Address for proper iMessage support.<br>
-> - P.S. I've tried Macmini8,1 SMBIOS and performance tanked since it's optimized for Coffee Lake, not Kaby Lake.
-2. If you're using Broadcom WLAN/BT cards and you're planning to install Sonoma, you might need to use OCLP.
+> - P.S. I've tried Macmini8,1 SMBIOS and performance tanked since it's optimized for Coffee Lake, not Kaby Lake.<br>
+2. <b>(Sonoma++)</b> If you're using Broadcom WLAN/BT cards, you have to use OCLP.<br>
+3. <b>(Important)</b> If you're not using HP ProDesk 600 G3, you'll need to create your own UTBMap.kext using this tool https://github.com/USBToolBox/tool
+otherwise USB most likely won't work since you'll have different port layout
 
 
 ---
