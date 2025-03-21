@@ -388,7 +388,7 @@
 		<key>Quirks</key>
 		<dict>
 			<key>AppleCpuPmCfgLock</key>
-			<false/>
+			<true/>
 			<key>AppleXcpmCfgLock</key>
 			<true/>
 			<key>AppleXcpmExtraMsrs</key>
@@ -426,9 +426,9 @@
 			<key>PowerTimeoutKernelPanic</key>
 			<true/>
 			<key>ProvideCurrentCpuInfo</key>
-			<false/>
+			<true/>
 			<key>SetApfsTrimTimeout</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
@@ -601,7 +601,7 @@
 				<key>bluetoothInternalControllerInfo</key>
 				<data>AAAAAAAAAAAAAAAAAAA=</data>
 				<key>boot-args</key>
-				<string>alcid=23 watchdog=0 amfi_get_out_of_my_way=1 -no_compat_check dk.e1000=0 e1000=0</string>
+				<string>alcid=23 watchdog=0 dk.e1000=0 e1000=0</string>
 				<key>csr-active-config</key>
 				<data>7w8AAA==</data>
 				<key>prev-lang:kbd</key>
@@ -677,7 +677,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>FILL THIS WITH MLB FROM SMBIOSGEN</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -689,9 +689,9 @@
 			<key>SystemProductName</key>
 			<string>iMac18,1</string>
 			<key>SystemSerialNumber</key>
-			<string>FILL THIS WITH SERIAL FROM SMBIOSGEN</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>FILL THIS WITH UUID FROM SMBIOSGEN</string>
+			<string></string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
