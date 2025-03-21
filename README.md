@@ -17,7 +17,7 @@ Tbh, I hate Ventura. I'll upgrade back to Sonoma because it performs better for 
 - <b>Things You Need To Do:</b><br>
 1. <b>(Required)</b> Generate iMac18,1 SMBIOS with SMBIOSGen, and fill those values under [PlatformInfo > Generic].<br>Fill the ROM value with your Ethernet MAC Address for proper iMessage support.<br>
 > - P.S. I've tried Macmini8,1 SMBIOS and performance tanked since it's optimized for Coffee Lake, not Kaby Lake.
-2. If you're gonna use this EFI for Sonoma, Don't forget to use Broadcom Kexts as Apple dropped native support for Broadcoms on Sonoma.
+2. If you're using Broadcom WLAN/BT cards and you're planning to install Sonoma, you might need to use OCLP.
 
 
 ---
