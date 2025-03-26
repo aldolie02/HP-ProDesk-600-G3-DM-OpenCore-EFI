@@ -10,8 +10,8 @@ You just need to tweak the kexts with whatever hardware you have. <br>
 1. <b>(Required)</b> Generate iMac18,1 SMBIOS with SMBIOSGen, and fill those values under [PlatformInfo > Generic].<br>Fill the ROM value with your Ethernet MAC Address for proper iMessage support.<br>
 > - P.S. I've tried Macmini8,1 SMBIOS and performance tanked since it's optimized for Coffee Lake, not Kaby Lake.<br>
 2. <b>(Sonoma++)</b> If you're using Broadcom WLAN/BT cards, you have to use OCLP.<br>
-3. <b>(Important)</b> If you're not using HP ProDesk 600 G3, you'll need to create your own UTBMap.kext using this <a href="https://github.com/USBToolBox/tool">tool</a> 
-otherwise USB most likely won't work since you'll have different port layout
+3. <b>(Important)</b> If you're not using HP ProDesk 600 G3, you'll need to create your own UTBMap.kext using this <a href="https://github.com/USBToolBox/tool">tool</a>,<br> 
+otherwise your USB ports ain't gonna work properly since you'll have different port layout
 
 
 ---
