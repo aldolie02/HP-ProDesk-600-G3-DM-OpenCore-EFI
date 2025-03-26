@@ -58,6 +58,6 @@ If you wanna use something newer than Monterey, just jump to Sonoma as it's way 
 
 <br>Huge love from <b>Indonesia</b>!<br>
 Warm hugs for __Taiwan__, __Ukraine__, and __Palestine__!<br>
->(also, warm hugs for my country's Freedom of Speech, Economy, and Democracy)
+>(also, for my country's Freedom of Speech, Economy, and Democracy which are slowly dying)
 
 
