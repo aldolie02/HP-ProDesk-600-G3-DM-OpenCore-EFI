@@ -29,7 +29,7 @@ otherwise USB most likely won't work since you'll have different port layout
 3. RAM: DDR4 16GB 2400 MHz<br>
 4. Audio: Conexant CX20632 Audio<br>
 5. Ethernet Card: Intel I219-LM Ethernet<br>
-6. Wireless LAN Card: Broadcom BCM943142Y
+6. Bluetooth: Cheap Chinese CSR 5.0 Bluetooth Dongle (0A12_0001 = 2578_1)
 
 
 ---
