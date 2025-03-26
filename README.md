@@ -1,5 +1,19 @@
 <h1><b>HP ProDesk 600 G3 DM OpenCore v1.0.4</b></h1>
 
+- <b>My Specs:</b><br>
+1. CPU: Intel Core i5-7500T<br>
+2. GPU: Intel HD Graphics 630<br>
+3. RAM: DDR4 16GB 2400 MHz<br>
+4. Audio: Conexant CX20632 Audio<br>
+5. Ethernet Card: Intel I219-LM Ethernet<br>
+6. Bluetooth: Cheap Chinese CSR 5.0 Bluetooth Dongle (0A12_0001 = 2578_1)
+   
+---
+- <b>BIOS Settings</b> <br>
+<a href="https://github.com/ivan19871002/HP-ProDeks-680-G3-MT-Hackintosh/blob/main/HP%20EliteDesk%20800%20G4%20Mini%20BIOS%20Configuration.pdf">Credits to Qiwu Huang (@ivan19871002)</a>
+---
+
+
 - <b>Keep In Mind!</b><br>
 This EFI also works for any other Mini PC with similiar build: ThinkCentre, etc as long as it's Kaby Lake.<br>
 You just need to tweak the kexts with whatever hardware you have. <br>
@@ -15,24 +29,12 @@ otherwise your USB ports ain't gonna work properly since you'll have different p
 
 
 ---
-- <b>My Specs:</b><br>
-1. CPU: Intel Core i5-7500T<br>
-2. GPU: Intel HD Graphics 630<br>
-3. RAM: DDR4 16GB 2400 MHz<br>
-4. Audio: Conexant CX20632 Audio<br>
-5. Ethernet Card: Intel I219-LM Ethernet<br>
-6. Bluetooth: Cheap Chinese CSR 5.0 Bluetooth Dongle (0A12_0001 = 2578_1)
-
-
----
-- <b>BIOS Settings</b> <br>
-<a href="https://github.com/ivan19871002/HP-ProDeks-680-G3-MT-Hackintosh/blob/main/HP%20EliteDesk%20800%20G4%20Mini%20BIOS%20Configuration.pdf">Credits to Qiwu Huang (@ivan19871002)</a>
----
 - <b>Tested Working On:</b><br>
   Latest Sonoma ~~(Recommended)~~<br>
   Latest Ventura<br>
   Latest Monterey <b>(Actually Recommended)</b>
 
+---
 
 ~~I'm currently trying out Ventura, but I optimized this EFI for Sonoma.<br>
 Tbh, I hate Ventura. I'll upgrade back to Sonoma because it performs better for me.~~
