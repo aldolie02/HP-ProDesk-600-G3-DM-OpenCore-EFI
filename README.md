@@ -8,9 +8,16 @@ You just need to tweak the kexts with whatever hardware you have. <br>
 - <b>Tested Working On:</b><br>
   Latest Sonoma <b>(Recommended)</b><br>
   Latest Ventura
+  Latest Monterey
+
 
 I'm currently trying out Ventura, but I optimized this EFI for Sonoma.<br>
 Tbh, I hate Ventura. I'll upgrade back to Sonoma because it performs better for me.
+
+P.S. I went back to Monterey, and I'll never look back again.
+App Support kinda sucks, but hey you can still find Older Version of apps that still supports Monterey.
+
+
 
 
 ---
