@@ -56,4 +56,6 @@ If you wanna use something newer than Monterey, just jump to Sonoma as it's way 
 >
 ><br>If these companies keep on doing this capitalist move as their way of operating internally,<br> these 'sins' will eventually haunt their credibility in the future. 
 
+Love from Indonesia!
+Support Ukraine and Palestine!
 
