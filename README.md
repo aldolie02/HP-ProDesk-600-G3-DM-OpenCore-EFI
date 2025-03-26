@@ -56,8 +56,8 @@ If you wanna use something newer than Monterey, just jump to Sonoma as it's way 
 >
 ><br>If these companies keep on doing this capitalist move as their way of operating internally,<br> these 'sins' will eventually haunt their credibility in the future. 
 
-Love from Indonesia!<br>
-Warm hugs for Taiwan, Ukraine, and Palestine!<br>
+<br>Huge love from <b>Indonesia</b>!<br>
+Warm hugs for __Taiwan__, __Ukraine__, and __Palestine__!<br>
 >(also, warm hugs for my country's Freedom of Speech, Economy, and Democracy)
 
 
