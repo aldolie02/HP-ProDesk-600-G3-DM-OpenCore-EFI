@@ -9,6 +9,7 @@ This EFI also works for any other Mini PC with similiar build: ThinkCentre, etc 
 You just need to tweak the kexts with whatever hardware you have. <br>
 (for example, you'll have to add itlwm for Intel WLAN Cards).<br>
 
+---
 - <b>My Specs:</b><br>
 1. CPU: Intel Core i5-7500T<br>
 2. GPU: Intel HD Graphics 630<br>
