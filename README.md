@@ -39,6 +39,7 @@ I'm quite comfy with how snappy this little beast is feeling rn. <br><br>
 If you just wanna do some browsing, and you don't require the latest and greatest app supports, pick __Monterey__.<br>
 However if you want something newer than __Monterey__, just go directly to __Sonoma__. <br>
 
+---
 - ___"Why?"_ you might ask..__ <br>
 __Ventura__ is essentially a spitting image of __Windows Vista__.<br>
 They're specifically designed to collect as many errors as possible from their userbase.<br>
